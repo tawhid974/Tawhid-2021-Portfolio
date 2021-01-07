@@ -45,9 +45,9 @@ section{
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(to right, indigo,purple,indigo);
+    background-image: linear-gradient(to right, #f552df,#ff9ff3,#f552df);
     padding: 10px 30px;
-    color:fuchsia;
+    color:white;
     border-radius: 5px;
     font-size: 20px;
     text-transform: uppercase;
@@ -55,7 +55,7 @@ section{
 }
 .link-button:hover{
     background-image: linear-gradient(to right, fuchsia, violet, fuchsia);
-    color: purple;
+    color: white;
 }
 
 .middle-area .first-half img{
@@ -83,7 +83,7 @@ h2{
 }
 .down-button{
     text-decoration: none;
-    background-image: linear-gradient(to right, #FA705B,#FF3081,#FFAA2D);
+    background-image: linear-gradient(to right, #FA705B,#FFBF22,#FFAA2D);
     padding: 10px 50px;
     color: red;
     border-radius: 5px;
